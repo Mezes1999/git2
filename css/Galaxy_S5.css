@@ -50,3 +50,56 @@
         margin-bottom: 10px;
     }
 }
+
+@media ( min-width: 451px ) and ( max-width: 800px )
+{
+    body
+    {
+        width: 600px;
+        margin: 0 auto;
+    }
+    h1
+    {
+        text-align: center;
+        background-color: coral;
+        color: white;
+        padding: 15px 30px;
+        width: 90%;
+        margin: 0 auto;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    h2
+    {
+        text-align: center;
+        background-color: tomato;
+        padding: 15px 30px;
+        color: white;
+        width: 85%;
+        margin: 0 auto;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    h3
+    {
+        text-align: center;
+        color: white;
+        background-color: magenta;
+        padding: 15px 30px;
+        width: 70%;
+        margin: 0 auto;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    h4
+    {
+        background-color: silver;
+        color: white;
+        padding: 15px 30px;
+        text-align: center;
+        width: 55%;
+        margin: 0 auto;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+}
