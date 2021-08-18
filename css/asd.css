@@ -12,5 +12,13 @@ h2
     background-color: tomato;
     padding: 20px;
     color: white;
-    margin: 0 300px 20px;
+    margin: 0 300px 50px;
+}
+h3
+{
+    text-align: center;
+    color: white;
+    background-color: magenta;
+    padding: 20px;
+    margin: 0 500px 20px;
 }
